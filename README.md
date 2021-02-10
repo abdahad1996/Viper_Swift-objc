@@ -8,7 +8,7 @@
 - XCode 12.3
 
 ## Features
-- Upcoming movies information.
+ 
 -  Scrolling list(e.g name,image,price)
 - list details (e.g. image, name)
 
@@ -29,6 +29,7 @@ Code has been strucutred into seven main categories, App, Scenes,Common,Resource
 - Common Group contains (reusable classes , extensions , utility)
 - Service Group contains (Services Uses in Features)
 - Networking Group contain (Networking Layer on Alamofire )
+- image cache framework
 
 ### Code Coverage
 - Test cases for each interactor and presentor of each module
