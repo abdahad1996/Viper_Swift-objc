@@ -1,6 +1,6 @@
 
-# Debounce_Test
-- A Debounce_Test App to display listing  fetched from dynamodb-writer API.
+# ViperDemo
+- A Demo App to display listing fetched from dynamodb-writer API.
 
 
 ## Development
